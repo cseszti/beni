@@ -1,7 +1,7 @@
 <DOCTYPE! html>
 <html>
 <head>
-<title>Beni</title>
+<h1>Beni</h1>
 </head>
 <body>
 <h1>Beni weboldala</h1>
